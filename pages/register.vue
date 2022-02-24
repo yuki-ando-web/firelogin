@@ -12,7 +12,7 @@
                             background-color="transparent"
                             color="blue accent-2"
                             grow
-                            class="mb-3"
+                            
                         >
                             <v-tab to="/login">ログイン</v-tab>
                             <v-tab to="/register">アカウント登録</v-tab>
