@@ -11,7 +11,7 @@
                             v-model="tab"
                             background-color="transparent"
                             color="blue accent-2"
-                            grow
+                        
                             
                         >
                             <v-tab to="/login">ログイン</v-tab>
