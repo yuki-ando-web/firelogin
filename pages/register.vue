@@ -8,9 +8,7 @@
                 <v-row>
                     <v-col>
                         <v-tabs
-                            v-model="tab"
-                            background-color="transparent"
-                        >
+                            v-model="tab">
                             <v-tab to="/login">ログイン</v-tab>
                             <v-tab to="/register">アカウント登録</v-tab>
                         </v-tabs>
