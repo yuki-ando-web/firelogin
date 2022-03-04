@@ -20,7 +20,6 @@
                                         <v-form
                                             ref="register_form"
                                             v-model="register_valid"
-                                            lazy-validation
                                         >
                                             <v-text-field
                                                 v-model="register_email"
