@@ -26,7 +26,6 @@
                                                 label="メールアドレス"
                                                 :rules="emailRules"
                                                 required
-                                                validate-on-blur
                                             />
 
                                             <v-text-field
