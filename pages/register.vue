@@ -25,8 +25,7 @@
                                                 v-model="register_email"
                                                 label="メールアドレス"
                                                 :rules="emailRules"
-                                                required
-                                            />
+                                                />
 
                                             <v-text-field
                                                 ref="register_password"
