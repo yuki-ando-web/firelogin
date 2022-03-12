@@ -31,7 +31,6 @@
                                                 ref="register_password"
                                                 v-model="register_password"
                                                 label="パスワード"
-                                                required
                                                 :append-icon="
                                                     show_registerPassword
                                                         ? 'mdi-eye'
