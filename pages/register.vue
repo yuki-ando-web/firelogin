@@ -53,7 +53,6 @@
                                                         :value="score.value"
                                                         :color="score.color"
                                                         absolute
-                                                        height="2"
                                                     />
                                                 </template>
                                             </v-text-field>
