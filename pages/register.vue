@@ -51,9 +51,7 @@
                                                 <template v-slot:progress>
                                                     <v-progress-linear
                                                         :value="score.value"
-                                                        :color="score.color"
-                                                        absolute
-                                                    />
+                                                        :color="score.color" />
                                                 </template>
                                             </v-text-field>
                                             <v-text-field
