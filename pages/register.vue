@@ -89,7 +89,6 @@
 
                                             <v-btn
                                                 :disabled="!register_valid"
-                                                color="blue darken-3"
                                             @click="email_register"
                                             >
                                                 登録
