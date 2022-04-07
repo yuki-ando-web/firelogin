@@ -102,7 +102,7 @@
                         <v-row>
                             <v-col sm="12">
                                 <h2
-                                    class="text-center">
+                                    >
                                     その他のアカウントでログイン
                                 </h2>
                             </v-col>
