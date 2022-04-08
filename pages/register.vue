@@ -100,7 +100,7 @@
                         </v-row>
                         <v-divider class="my-8" />
                         <v-row>
-                            <v-col sm="12">
+                            <v-col>
                                 <h2
                                     >
                                     その他のアカウントでログイン
