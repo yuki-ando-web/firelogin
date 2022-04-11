@@ -81,7 +81,7 @@
 
                                             <v-alert
                                                 v-if="registerErrorMsg"
-                                                dense
+                                                
                                                 type="error"
                                             >
                                                 {{ registerErrorMsg }}
