@@ -63,7 +63,7 @@
 
                                             <v-btn
                                                 :disabled="!login_valid"
-                                                color="blue darken-3"
+                                                color="blue "
                                                 class="my-4 white--text"
                                                 @click="email_login"
                                             >
